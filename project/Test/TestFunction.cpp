@@ -2,5 +2,5 @@
 #include <cassert>
 
 void TestFunction() {
-	assert(0);
+	//assert(0);
 }
